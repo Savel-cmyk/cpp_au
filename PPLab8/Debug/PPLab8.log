@@ -1,0 +1,3 @@
+﻿  PPLab8.cpp
+C:\Users\savel\source\repos\PPLab8\PPLab8.cpp(34,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PPLab8.vcxproj -> C:\Users\savel\source\repos\PPLab8\Debug\PPLab8.exe

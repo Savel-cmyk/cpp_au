@@ -1,0 +1,5 @@
+﻿  OMPLab4.cpp
+C:\Users\savel\source\repos\OMPLab4\OMPLab4.cpp(16,9): warning C4101: h: неиспользованная локальная переменная
+C:\Users\savel\source\repos\OMPLab4\OMPLab4.cpp(50,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\savel\source\repos\OMPLab4\OMPLab4.cpp(52,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  OMPLab4.vcxproj -> C:\Users\savel\source\repos\OMPLab4\Debug\OMPLab4.exe

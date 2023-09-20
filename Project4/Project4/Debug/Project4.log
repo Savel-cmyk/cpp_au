@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\savel\source\repos\Project4\Project4\MyForm.h(21,3): warning C4091: typedef : пропускается слева от "Project4::tree", когда ни одна переменная не объявлена
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project4.vcxproj -> C:\Users\savel\source\repos\Project4\Debug\Project4.exe

@@ -1,0 +1,4 @@
+﻿  PPLab9.cpp
+C:\Users\savel\source\repos\PPLab9\PPLab9.cpp(148,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\savel\source\repos\PPLab9\PPLab9.cpp(150,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PPLab9.vcxproj -> C:\Users\savel\source\repos\PPLab9\Debug\PPLab9.exe

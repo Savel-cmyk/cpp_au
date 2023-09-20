@@ -1,0 +1,4 @@
+﻿  PPLab4.cpp
+C:\Users\savel\source\repos\PPLab4\PPLab4.cpp(56,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\savel\source\repos\PPLab4\PPLab4.cpp(58,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  PPLab4.vcxproj -> C:\Users\savel\source\repos\PPLab4\Debug\PPLab4.exe
